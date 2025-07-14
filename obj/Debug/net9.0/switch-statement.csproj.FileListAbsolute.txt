@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\bin\Debug\net9.0\switch-statement.exe
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\bin\Debug\net9.0\switch-statement.deps.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\bin\Debug\net9.0\switch-statement.runtimeconfig.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\bin\Debug\net9.0\switch-statement.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\bin\Debug\net9.0\switch-statement.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\switch-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\switch-statement.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\switch-statement.AssemblyInfo.cs
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\switch-statement.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\switch-statement.sourcelink.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\switch-statement.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\refint\switch-statement.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\switch-statement.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\switch-statement.genruntimeconfig.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\switch-statement\obj\Debug\net9.0\ref\switch-statement.dll
